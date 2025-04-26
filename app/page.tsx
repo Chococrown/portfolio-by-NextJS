@@ -1,5 +1,6 @@
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
+import Contract from "@/components/Contract";
 
 
 export default function Home() {
@@ -9,8 +10,9 @@ export default function Home() {
 
                 <Navbar />
 
-                <h1>หน้าแรกของเว็บไซต์</h1>
-                <h2>Hello World</h2>
+                
+
+                <Contract />
 
                 <Footer />  
 
