@@ -1,6 +1,7 @@
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import Contract from "@/components/Contract";
+import Project from "@/components/Project";
 
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
 
                 <Navbar />
 
-                
+                <Project />
 
                 <Contract />
 
