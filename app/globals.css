@@ -64,10 +64,35 @@ body {
   align-items: center;
 }
 
+/* About */
+
+.About_Skill {
+  margin: 0 auto;
+  justify-items: center;
+}
+
+
+.about__img__profile {
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.about__img__education {
+  margin: 0 auto;
+}
+
+.about__all__skill {
+  display: flex;
+  gap: 30px;
+}
+
+.about__img__skill {
+  justify-items: center;
+}
+
 
 .project__Container {
 
-      
   a {
     color: green;
     text-decoration: none;

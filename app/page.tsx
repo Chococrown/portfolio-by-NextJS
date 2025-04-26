@@ -1,8 +1,9 @@
-import Footer from "@/components/Footer";
+
 import Navbar from "@/components/Navbar";
+import About from "@/components/About";
 import Contract from "@/components/Contract";
 import Project from "@/components/Project";
-
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -10,6 +11,8 @@ export default function Home() {
               <div className = 'container'>
 
                 <Navbar />
+
+                <About />
 
                 <Project />
 
