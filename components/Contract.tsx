@@ -7,7 +7,9 @@ export default function Contract() {
 
                     <div>
 
-                        <h2> 🌏 ติดต่อ </h2>
+                        <div className="about_Section"> 
+                            🌏 ติดต่อ 
+                        </div>
 
                         <br/>
 

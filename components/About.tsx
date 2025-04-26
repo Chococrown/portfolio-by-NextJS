@@ -2,9 +2,11 @@ export default function About() {
     return (   
                 <>
 
-                    <div className="About_Personal">
+                    <div className="about_Personal">
 
-                        <h2> 🚀 เกี่ยวกับ </h2>
+                        <div className="about_Section"> 
+                            🚀 เกี่ยวกับ 
+                        </div>
 
                         <br/>
 
@@ -29,9 +31,11 @@ export default function About() {
 
                     </div>
 
-                    <div className="About_Education">
+                    <div className="about_Education">
 
-                        <h2>🎓  การศึกษา</h2>
+                        <div className="about_Section"> 
+                            🎓  การศึกษา 
+                        </div>
 
                         <br/>
 
@@ -55,9 +59,11 @@ export default function About() {
 
                     </div>
 
-                    <div className="About_WorkExperience">
+                    <div className="about_WorkExperience">
 
-                        <h2> 🪪 ประสบการณ์</h2>
+                        <div className="about_Section"> 
+                            🪪 ประสบการณ์
+                        </div>
 
                         <br/>
 
@@ -81,9 +87,11 @@ export default function About() {
                         
                     </div>
 
-                    <div className="About_Objective">
+                    <div className="about_Objective">
 
-                        <h2>🧠 จุดแข็ง & ความตั้งใจ</h2>
+                        <div className="about_Section">
+                            🧠 จุดแข็ง & ความตั้งใจ
+                        </div>
 
                         <br/>
 
@@ -107,9 +115,11 @@ export default function About() {
 
                     </div>
 
-                    <div className="About_Skill">
+                    <div className="about_Skill">
 
-                        <h2>💻  ทักษะด้านเทคนิค</h2>
+                        <div className="about_Section">
+                            💻  ทักษะด้านเทคนิค
+                        </div>
         
                         <br/>
 
