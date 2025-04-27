@@ -2,9 +2,9 @@ export default function About() {
     return (   
                 <>
 
-                    <div className="about_Personal">
+                    <div className = "about_Personal">
 
-                        <div className="about_Section"> 
+                        <div className = "about_Section"> 
                             🚀 เกี่ยวกับ 
                         </div>
 
@@ -31,9 +31,9 @@ export default function About() {
 
                     </div>
 
-                    <div className="about_Education">
+                    <div className = "about_Education">
 
-                        <div className="about_Section"> 
+                        <div className = "about_Section"> 
                             🎓  การศึกษา 
                         </div>
 
@@ -59,9 +59,9 @@ export default function About() {
 
                     </div>
 
-                    <div className="about_WorkExperience">
+                    <div className = "about_WorkExperience">
 
-                        <div className="about_Section"> 
+                        <div className = "about_Section"> 
                             🪪 ประสบการณ์
                         </div>
 
@@ -73,7 +73,7 @@ export default function About() {
 
                         <br/>
 
-                            <div className="about_Section_2">
+                            <div className = "about_Section_2">
                                 📌 หมายเหตุเพิ่มเติม
                             </div>
 
@@ -89,9 +89,9 @@ export default function About() {
                         
                     </div>
 
-                    <div className="about_Objective">
+                    <div className = "about_Objective">
 
-                        <div className="about_Section">
+                        <div className = "about_Section">
                             🧠 จุดแข็ง & ความตั้งใจ
                         </div>
 
@@ -117,23 +117,23 @@ export default function About() {
 
                     </div>
 
-                    <div className="about_Skill">
+                    <div className = "about_Skill">
 
-                        <div className="about_Section">
+                        <div className = "about_Section">
                             💻  ทักษะด้านเทคนิค
                         </div>
         
                         <br/>
 
-                            <div className="about_Section_2"> 
+                            <div className = "about_Section_2"> 
                                 Frontend 
                             </div>
 
                         <br/>
 
-                        <div className='about__all__skill'>
+                        <div className = "about__all__skill">
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/HTML.svg"
                                     alt = "HTML" 
@@ -142,7 +142,7 @@ export default function About() {
                                 <p>HTML</p>
                             </div>
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/CSS.svg"
                                     alt = "CSS" 
@@ -151,7 +151,7 @@ export default function About() {
                                 <p>CSS</p>
                             </div>
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/JavaScript.svg"
                                     alt = "Java Script" 
@@ -160,7 +160,7 @@ export default function About() {
                                 <p>Java Script</p>
                             </div>
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/TypeScript.svg"
                                     alt = "TypeScript" 
@@ -173,15 +173,15 @@ export default function About() {
 
                         <br/>
 
-                            <div className="about_Section_2"> 
+                            <div className = "about_Section_2"> 
                                 Framework & Library 
                             </div>
 
                         <br/>
 
-                        <div className='about__all__skill'>
+                        <div className = "about__all__skill">
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/React.svg"
                                     alt = "React.JS" 
@@ -190,7 +190,7 @@ export default function About() {
                                 <p>React.JS</p>
                             </div>
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/NextJS.svg"
                                     alt = "Next.JS" 
@@ -199,7 +199,7 @@ export default function About() {
                                 <p>Next.JS</p>
                             </div>
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/TailwindCSS.svg"
                                     alt = "TailwindCSS" 
@@ -212,15 +212,15 @@ export default function About() {
 
                         <br/>
 
-                            <div className="about_Section_2"> 
+                            <div className = "about_Section_2"> 
                                 เครื่องมือพัฒนา 
                             </div>
 
                         <br/>
 
-                        <div className='about__all__skill'>
+                        <div className = "about__all__skill">
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/VSCode.svg"
                                     alt = "Visual Studio Code" 
@@ -229,7 +229,7 @@ export default function About() {
                                 <p >VS Code</p>
                             </div>
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/Git.svg"
                                     alt = "Git" 
@@ -238,7 +238,7 @@ export default function About() {
                                 <p>Git</p>
                             </div>
 
-                            <div className='about__img__skill'>
+                            <div className = "about__img__skill">
                                 <img 
                                     src = "/icons_About/skill/Github.svg"
                                     alt = "GitHub" 
@@ -251,7 +251,7 @@ export default function About() {
 
                             <br/>
 
-                                <div className="about_Section_2"> 
+                                <div className = "about_Section_2"> 
                                     แนวทางการพัฒนา 
                                 </div>
 
