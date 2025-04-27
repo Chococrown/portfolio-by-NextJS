@@ -73,7 +73,9 @@ export default function About() {
 
                         <br/>
 
-                            <h3>📌 หมายเหตุเพิ่มเติม</h3>
+                            <div className="about_Section_2">
+                                📌 หมายเหตุเพิ่มเติม
+                            </div>
 
                         <br/>
 
@@ -123,7 +125,9 @@ export default function About() {
         
                         <br/>
 
-                            <h3> Frontend </h3>
+                            <div className="about_Section_2"> 
+                                Frontend 
+                            </div>
 
                         <br/>
 
@@ -169,7 +173,9 @@ export default function About() {
 
                         <br/>
 
-                            <h3> Framework & Library </h3>
+                            <div className="about_Section_2"> 
+                                Framework & Library 
+                            </div>
 
                         <br/>
 
@@ -184,11 +190,31 @@ export default function About() {
                                 <p>React.JS</p>
                             </div>
 
+                            <div className='about__img__skill'>
+                                <img 
+                                    src = "/icons_About/skill/NextJS.svg"
+                                    alt = "Next.JS" 
+                                    style = {{width: '5vw', height: 'auto'}}
+                                />
+                                <p>Next.JS</p>
+                            </div>
+
+                            <div className='about__img__skill'>
+                                <img 
+                                    src = "/icons_About/skill/TailwindCSS.svg"
+                                    alt = "TailwindCSS" 
+                                    style = {{width: '5vw', height: 'auto'}}
+                                />
+                                <p>TailwindCSS</p>
+                            </div>
+
                         </div>
 
                         <br/>
 
-                            <h3> เครื่องมือพัฒนา </h3>
+                            <div className="about_Section_2"> 
+                                เครื่องมือพัฒนา 
+                            </div>
 
                         <br/>
 
@@ -225,7 +251,9 @@ export default function About() {
 
                             <br/>
 
-                                <h3> แนวทางการพัฒนา </h3>
+                                <div className="about_Section_2"> 
+                                    แนวทางการพัฒนา 
+                                </div>
 
                             <br/>
 

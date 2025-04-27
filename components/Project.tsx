@@ -4,7 +4,9 @@ export default function Project() {
     return (
                 <div className='project__Container'>
 
-                    <h2> 📁 ตัวอย่างโปรเจกต์ </h2>
+                    <div className="about_Section"> 
+                        📁 ตัวอย่างโปรเจกต์ 
+                    </div>
 
                     <br/>
 
